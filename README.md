@@ -2,7 +2,7 @@
 
 ## Slides
 
-Find the slides here: https://aka.ms/fhhagenberg2022
+Find the slides here: https://aka.ms/fhhgb2022-slides
 
 ## Codespaces demo
 
@@ -10,7 +10,7 @@ Find the slides here: https://aka.ms/fhhagenberg2022
 
 ## Dependabot demo
 
-Now we will add depe
+
 
 ## GitHub Action demo
 
