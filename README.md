@@ -67,3 +67,5 @@ e.g. adding functions to calculate prime numbers or to print text in a sepcific 
 ❤️ User [@LeaFranz](https://github.com/LeaFranz) liked the session and rated the repo with a star ⭐
 
 ❤️ User [@DavidReiter](https://github.com/DavidReiter) liked the session and rated the repo with a star ⭐
+
+❤️ User [@JakodDittrich](https://github.com/JakodDittrich) liked the session and rated the repo with a star ⭐
