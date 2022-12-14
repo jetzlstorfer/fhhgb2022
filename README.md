@@ -63,3 +63,5 @@ e.g. adding functions to calculate prime numbers or to print text in a sepcific 
 ❤️ User [@faha-git](https://github.com/faha-git) liked the session and rated the repo with a star ⭐
 
 ❤️ User [@sickinga](https://github.com/sickinga) liked the session and rated the repo with a star ⭐
+
+❤️ User [@LeaFranz](https://github.com/LeaFranz) liked the session and rated the repo with a star ⭐
