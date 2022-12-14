@@ -2,7 +2,9 @@
 
 ## Slides
 
+<!--
 Find the slides here: https://aka.ms/fhhgb2022-slides
+-->
 
 ## Codespaces demo
 
