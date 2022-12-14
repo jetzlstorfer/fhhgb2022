@@ -6,11 +6,9 @@ Find the slides here: https://aka.ms/fhhgb2022-slides
 
 ## Codespaces demo
 
-## Codepilot demo
-
 ## Dependabot demo
 
-
+## Co-pilot demo
 
 ## GitHub Action demo
 
