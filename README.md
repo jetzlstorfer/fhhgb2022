@@ -12,7 +12,7 @@ Find the slides here: https://aka.ms/fhhgb2022-slides
 
 ## Co-pilot demo
 
-## GitHub Action demo
+## GitHub Actions demo
 
 💡 How it works: star the repo ⭐ and your name will show up in the list below.
 
